@@ -91,21 +91,6 @@ Rather than functioning as a single deployable application, this repository show
 
 ---
 
-## Repository Structure
-csd-310/
-│
-├── module-6/
-│ └── README.md
-├── module-7/
-│ └── README.md
-├── module-8/
-│ └── README.md
-├── module-10/
-│ └── README.md
-├── module-11/
-│ └── README.md
-└── README.md
-
 ### Each module folder contains:
 - One or more scripts
 - A dedicated README explaining purpose, setup, and learning outcomes
